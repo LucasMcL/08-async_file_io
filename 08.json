@@ -1,0 +1,12 @@
+{
+	"person": {
+		"name": "Lucas",
+		"age": 26,
+		"sex": "male"
+	},
+	"animal": {
+		"species": "cat",
+		"name": "Cattywhampus",
+		"has_claws": true
+	}
+}
